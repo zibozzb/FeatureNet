@@ -13,7 +13,7 @@ We proposed a deep 3D convolutional neural network to be our recognizer. The inp
 We using **scikit-image** library to perform these two tasks. Decomposition will find different areas which are seperated from each other. Segmentation will seperate overlapping features.
 
 # Result
-* 1 : **Convergence for loss function and accuracy**
+* 1 : **Convergence of loss function and accuracy**
 ![convergence](https://github.com/zibozzb/FeatureNet/blob/master/img/Picture1.png)
 * 2 : **Confusion matrix**
 ![confMatrix](https://github.com/zibozzb/FeatureNet/blob/master/img/2.png)
