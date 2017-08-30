@@ -1,1 +1,2 @@
-# images in paper
+# Images
+Including some images in the paper
