@@ -2,7 +2,7 @@
 We developed a novel framework using Deep 3D Convolutional Neural Networks (3D-CNNs) termed FeatureNet to learn machining features from CAD models of mechanical parts. FeatureNet learns the distribution of complex machining feature shapes across a large 3D model data set and discovers distinguishing features that help in recognition process automatically. To train FeatureNet, a large-scale mechanical part datasets of 3D CAD models with labeled machining features is synthetically constructed. 
 
 # Dataset
-We create our own dataset by using **Solidworks** API which includes 24000 models belonging to 24 classes. And we uploaded our dataset in: [dataset](https://github.com/zibozzb/Machining-feature-dataset)
+We create our own dataset by using **Solidworks** API which includes 24000 models belonging to 24 classes. And we uploaded our dataset in: [Dataset](https://github.com/zibozzb/Machining-feature-dataset)
 ![Database](https://github.com/zibozzb/FeatureNet/blob/master/img/2%20(1).png)
 
 # Recognizer
