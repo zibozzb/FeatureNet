@@ -19,3 +19,11 @@ We using **scikit-image** library to perform these two tasks. Decomposition will
 ![confMatrix](https://github.com/zibozzb/FeatureNet/blob/master/img/2.png)
 * 3 : **Three test cases**
 ![test](https://github.com/zibozzb/FeatureNet/blob/master/img/1%20(1).png)
+
+*****************************************************************
+### Owner:
+	MAD Lab
+	Department of Mechanical and Aerospace Engineering
+	University at Buffalo, Buffalo, NY - 14260
+	http://madlab.eng.buffalo.edu/
+*****************************************************************
