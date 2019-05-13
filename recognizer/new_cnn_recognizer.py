@@ -14,7 +14,7 @@ import os.path
 import math
 import numpy as np
 import tensorflow as tf
-from new_method_from_cifar10 import new_input_processor
+import new_input_processor
 
 
 import datetime
